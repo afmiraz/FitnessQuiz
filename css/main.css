@@ -1,5 +1,7 @@
 /*! system-font.css v2.0.2 | CC0-1.0 License | github.com/jonathantneal/system-font-css */
-
+html {
+  scroll-behavior: smooth;
+}
 @font-face {
 	font-family: system-ui;
 	font-style: normal;
@@ -6198,7 +6200,7 @@ iframe.uk-cover {
 }
 
 .uk-logo-inverse {
-	max-width: 60px;
+	max-width: 40px;
 }
 
 .uk-svg,
